@@ -1,0 +1,28 @@
+.tags {
+  display: inline-block;
+  border: 1px solid #d5dadf;
+  margin: 2px;
+  border-radius: 3px;
+  height: 25px;
+  padding-left: 5px;
+  padding-top: 2px;
+}
+
+.tag {
+	font-size: 14px;
+	color: #ffffff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a:hover {
+ cursor:pointer;
+}
+
+.click {
+	font-size: 12px;
+	color: #ffffff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	display: inline-block;
+	width: 20px;
+	text-align: center;
+}
